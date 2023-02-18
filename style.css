@@ -1,0 +1,23 @@
+
+.div{
+    display: flex;
+    flex-direction: row;
+    gap: 940px;
+    
+ }
+ 
+ 
+ 
+ nav{
+     display: flex;
+     margin: 45px;
+   gap: 77px;
+   background-color: black;
+   z-index: 50;
+   color: aliceblue;
+   
+ }
+
+ a{
+    color: #320cdd;
+ }
